@@ -7,6 +7,6 @@ alt: image-alt
 description: 
 #2015: Northbrook High School#
 #2017: AA Lonestar College System#
-#2023-Current: AS/BS San Diego Community College#
-
+#2023-Current: AS San Diego Community College#
+#Future: BS Chemical Engineering#
 ---
