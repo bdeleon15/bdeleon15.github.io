@@ -1,11 +1,8 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
+modal-id: Background
+date: 
+img: Childhood Icon.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Growing up it almost seemed as if I were a nomad. New school, new home, and new people just about every year. Going back and forth from Texas and California I met all kinds of different people which made adversity a normal thing for me. Being raised by a single mother and constantly having my environment change molded me to become an extremely adaptable, well rounded, cultured person. It taught me to adjust quickly in new environments in order to thrive, adapt well to new people and get along with the world around me. 
 ---
